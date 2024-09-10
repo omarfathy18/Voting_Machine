@@ -3,7 +3,7 @@
 ## Features
 * Normal Mode: Voting for 4 candidates / Reset  
 * Winner Mode: Display winner / Reset  
-* If the power is cut out the votes are still stored in the EEPROM and can be recovered  
+* Votes are securely stored in EEPROM, allowing recovery even after a power outage 
 
 ## Drivers
 * GPIO  
