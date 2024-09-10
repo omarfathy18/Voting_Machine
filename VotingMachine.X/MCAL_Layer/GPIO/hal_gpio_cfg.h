@@ -1,0 +1,28 @@
+/* 
+ * File:   hal_gpio_cfg.h
+ * Author: omar fathy
+ *
+ * Created on 08 May 2024, 17:46
+ */
+
+#ifndef HAL_GPIO_CFG_H
+#define	HAL_GPIO_CFG_H
+
+/* INCLUDES */
+
+
+/* MACRO DECLARATIONS */
+#define GPIO_PORT_PIN_CONFIGURATIONS  CONFIG_ENABLE
+#define GPIO_PORT_CONFIGURATIONS      CONFIG_ENABLE
+
+/* MACRO FUNCTIONS DECLARATIONS */
+
+
+/* DATA TYPES DECLARATIONS */
+
+
+/* FUNCTIONS DECLARATIONS */
+
+
+#endif	/* HAL_GPIO_CFG_H */
+
